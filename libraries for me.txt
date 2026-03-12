@@ -1,0 +1,6 @@
+1️⃣ pathlib
+2️⃣ requests
+3️⃣ rich
+4️⃣ pygame
+5️⃣ numpy
+6️⃣ opencv
